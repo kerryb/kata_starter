@@ -4,7 +4,7 @@ A really simple starting point for doing code katas in Ruby, using RSpec.
 
 ## Getting started
 
-1. Download the project, or clone it using git
+1. Download this using the "Download ZIP" button somewhere over there ➚, or clone it using git
 2. Install [bundler](http://bundler.io/) if necessary: `gem install bundler`
 3. Run `bundle install --binstubs`
 4. Run specs using `bundle exec rspec` or `bin/rspec`
