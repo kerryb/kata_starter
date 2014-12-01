@@ -9,8 +9,8 @@ A really simple starting point for doing code katas in Ruby, using RSpec.
 3. Run `bundle install --binstubs`
 4. Run specs using `bundle exec rspec` or `bin/rspec`
 
-A dummy spec and class are provided in `spec` and `lib` respectively -- delete
-these and replace with your own.
+A dummy spec and class are provided in `spec` and `lib` respectively &ndash;
+delete these and replace with your own.
 
 ## Notes
 
